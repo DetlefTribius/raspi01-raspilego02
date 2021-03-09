@@ -794,7 +794,7 @@ public class Model
                                     // tokenToArduino: Lokale Variable, die vier unteren Bytes 
                                     //                 der long-Instanzvariable this.token...
                                     final long tokenToArduino = (Model.this.token & 0xffffffff);
-                                    Model.this.arduinoI2C.write(token, Model.this.i2cStatus);
+                                    Model.this.arduinoI2C.write(tokenToArduino, Model.this.i2cStatus);
                                     logger.debug("i2c-Bus: " + tokenToArduino + " gesendet...");
                                     
                                     ArduinoI2C.DataRequest request = Model.this.arduinoI2C.read();
