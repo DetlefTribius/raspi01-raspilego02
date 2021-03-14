@@ -613,20 +613,30 @@ public class Model
      */
     public final static BigDecimal[] ENHANCEMENTS = new BigDecimal[]
     {
-        BigDecimal.valueOf(0.000).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
-        BigDecimal.valueOf(0.002).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
-        BigDecimal.valueOf(0.005).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
-        BigDecimal.valueOf(0.010).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
-        BigDecimal.valueOf(0.020).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
-        BigDecimal.valueOf(0.050).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
-        BigDecimal.valueOf(0.100).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
-        BigDecimal.valueOf(0.200).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
-        BigDecimal.valueOf(0.300).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
-        BigDecimal.valueOf(0.500).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
-        BigDecimal.valueOf(1.000).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
-        BigDecimal.valueOf(2.000).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
-        BigDecimal.valueOf(5.000).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
-        BigDecimal.valueOf(10.00).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP)
+            BigDecimal.valueOf(0.000).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.002).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.005).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.010).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.020).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.050).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.100).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.150).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.200).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.250).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.300).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.350).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.400).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.500).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.600).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.700).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.800).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(0.900).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(1.000).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(1.200).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(1.500).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(2.000).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(5.000).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP),
+            BigDecimal.valueOf(10.00).setScale(SCALE_ENHANCEMENT, BigDecimal.ROUND_HALF_UP)
     };
     
     /**
